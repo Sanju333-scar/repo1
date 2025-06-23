@@ -1,0 +1,98 @@
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\bin\Debug\net9.0\appsettings.json
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\bin\Debug\net9.0\FINAL dotnet.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\bin\Debug\net9.0\FINAL dotnet.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\bin\Debug\net9.0\FINAL dotnet.exe
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\bin\Debug\net9.0\FINAL dotnet.deps.json
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\bin\Debug\net9.0\FINAL dotnet.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\bin\Debug\net9.0\FINAL dotnet.dll
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\bin\Debug\net9.0\FINAL dotnet.pdb
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\FINAL dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\FINAL dotnet.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\FINAL dotnet.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\FINAL dotnet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\FINAL dotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\FINAL dotnet.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\FINAL dotnet.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\FINAL dotnet.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\scopedcss\bundle\FINAL dotnet.styles.css
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\scopedcss\projectbundle\FINAL dotnet.bundle.scp.css
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\8eyhyyn6tv-b9sayid5wm.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\a3zpjvyege-61n19gt1b8.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\ro497ktp8a-xtxxf3hu2r.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\c5h9f8oofx-bqjiyaj88i.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\my57spa6rk-c2jlpeoesf.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\z1ku1zai4e-erw9l3u2r3.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\6ohnotld8b-aexeepp0ev.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\p1v5s82o8f-d7shbmvgxk.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\0hertj031a-ausgxo2sd3.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\0rigc4r29d-k8d9w2qqmf.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\4kabxu82fw-cosvhxvwiu.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\skjvg75gvy-ub07r2b239.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\ifhprj1pf0-fvhpjtyr6v.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\yjmd6u82v9-b7pk76d08c.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\5npxxgiokh-fsbi9cje9m.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\d65w8epzhf-rzd6atqjts.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\tiyg03ojd2-ee0r1s7dh0.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\e7tmtdrnvx-dxx9fxp4il.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\h4nnzcb1yv-jd9uben2k1.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\umbgsfwy2j-khv3u5hwcm.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\qhz9ghlbhp-r4e9w2rdcm.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\zi7i2cvtbv-lcd1t2u6c8.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\cf3mza02zk-c2oey78nd0.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\89k98a4ujn-tdbxkamptv.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\pjlbv0vqdi-j5mq2jizvt.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\0r6mokuadt-06098lyss8.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\hslgzzvud9-nvvlpmu67g.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\1yqdzfm9l6-s35ty4nyc5.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\indf6i9n92-pj5nd1wqec.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\wk4gljfsuy-46ein0sx1k.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\jvg3jlfdmg-v0zj4ognzu.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\swyil8z583-37tfw0ft22.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\c9de7uqiij-hrwsygsryq.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\p2eg7xdrg0-pk9g2wxc8p.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\90b80ekxev-ft3s53vfgj.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\pz1xpf6o4q-6cfz1n2cew.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\hjy5bgjq4o-6pdc2jztkx.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\at3e8lmkal-493y06b0oq.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\d9313rmzbe-iovd86k7lj.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\jn57veb1da-vr1egmr9el.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\ues2v64rh7-kbrnm935zg.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\w8mz3ad8li-jj8uyg4cgr.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\nj5bqyy1iz-y7v9cxd14o.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\snvtvqi9mz-notf2xhcfb.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\k2tt2kiivd-h1s4sie4z3.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\5tn5bngt7t-63fj8s7r0e.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\tx21hjmlwv-0j3bgjxly4.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\556kucr5tu-47otxtyo56.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\d4vlcfz46q-4v8eqarkd7.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\ya1pvokn4k-356vix0kms.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\arpzueaiep-83jwlth58m.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\kps69vlwdc-mrlpezrjn3.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\otwv0dviro-lzl9nlhx6b.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\25v6a8417y-ag7o75518u.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\wyvc4kklh9-x0q3zqp4vz.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\70eifn896g-0i3buxo5is.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\qcc207ebmt-o1o13a6vjx.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\qo3f4da5m3-ttgo8qnofa.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\odd317p434-2z0ns9nrw6.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\crfbz3iuc8-muycvpuwrr.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\lkrju1f7vk-87fc7y1x7t.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\lkekgawamj-mlv21k5csn.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\7bd306klp1-szn4x2k688.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\compressed\ofiwrlc0jf-szn4x2k688.gz
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\staticwebassets\msbuild.FINAL dotnet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\staticwebassets\msbuild.FINAL dotnet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\staticwebassets\msbuild.build.FINAL dotnet.props
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.FINAL dotnet.props
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.FINAL dotnet.props
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\FINAL dotnet.dll
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\refint\FINAL dotnet.dll
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\FINAL dotnet.pdb
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\FINAL dotnet.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\FINAL dotnet\obj\Debug\net9.0\ref\FINAL dotnet.dll
